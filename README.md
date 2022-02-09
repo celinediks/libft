@@ -3,7 +3,7 @@
 Libft is my own and first C library. This library contains a lot of general purpose functions that will be of good use for bigger projects. 
 
 ## Project description
-
+<p>Subject document of the project: <a href="en.subject-2.pdf" target="_blank">libft</a></p>
 Libft is the first project in the curriculum of school 42. It is a project that introduces you to programming, creating a good structure for your project and implementing basic function structures. The project consists of 3 parts. 
 1. Re-writing a set of functions from the libc such as strlen, strchr, atoi etc.
 2. Write a set of functions that are either not in the libc, or that are part of it but in a different form.
